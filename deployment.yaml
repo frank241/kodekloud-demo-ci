@@ -18,7 +18,7 @@ spec:
       containers:
       - image: harbor.h2o-2-19274.h2o.vmware.com/library/solar-system:26
         name: solar-system
+        ports:
+        - containerPort: 80
       imagePullSecrets:
       - name: regcred
-        ports: 
-        - containerPort: 80
