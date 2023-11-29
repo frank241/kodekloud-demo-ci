@@ -5,7 +5,7 @@ echo '<!DOCTYPE html>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <style>
 		#solar-system {
-		   background: url("https://github.com/frank241/kodekloud-demo-ci/blob/main/images/solar-system-9.png")   center center;
+		   background: url("https://github.com/frank241/kodekloud-demo-ci/blob/main/images/geocentric/solar-system.png")   center center;
            background-repeat: no-repeat;			  
 		   background-size: cover;
 		   content: "";
@@ -23,7 +23,7 @@ echo '<!DOCTYPE html>
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			background: url("https://github.com/frank241/kodekloud-demo-ci/blob/main/images/background.png");
+			background: url("https://github.com/frank241/kodekloud-demo-ci/blob/main/images/geocentric/background.png");
 		}
 		
 /* 		.shadow {
